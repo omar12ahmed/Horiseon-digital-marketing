@@ -13,4 +13,8 @@ I have made the following changes:
 - replaced the generic div elements with more descriptive semantic tags such as 'header', 'nav', 'aside' and 'section'.
 - Included descriptive alternative text for images using the 'alt' attribute.
 
+
+
+![screenshot of the webpage](starter/assets/images/Screenshots.png)
+
 [This is the link to the project](https://omar12ahmed.github.io/Horiseon-digital-marketing/starter/index.html)
