@@ -1,5 +1,7 @@
+
+
 # Horiseon-digital-marketing
-i will be improving the Horiseon website to make sure it meets user accessibility 
+This project aims to imrove the html sementic for Horiseon social media marketing website for better user accessibility and user experience.
 
 changed title 
 linked my html to my css 
@@ -7,3 +9,13 @@ tags changed div to a header.
 nav form a div 
 gave the side bar a tag name of aside 
 gave different section a tag name of section 
+
+# Description 
+I have linked my style.css to my index.html and made corrections to the HTML structure following the correct HTML semantic in my index.html. In my style.ccs i made sure my elements and classes correctly match those in my index.html
+
+# chnages made 
+I have made the following changes:
+- replaced the generic div elements with more descriptive semantic tags such as 'header', 'nav', 'aside' and 'section'.
+- Included descriptive alternative text for images using the 'alt' attribute.
+
+[This is the link to the project](https://omar12ahmed.github.io/Horiseon-digital-marketing/starter/index.html)
