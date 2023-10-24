@@ -14,7 +14,7 @@ I have made the following changes:
 - Included descriptive alternative text for images using the 'alt' attribute.
 
 
-![This is my project link](./starter/assets/images/Screenshot.png)
+![This is my project screenshot](./starter/assets/images/Screenshot.png)
 
 
 [This is the link to the project](https://omar12ahmed.github.io/Horiseon-digital-marketing/starter/index.html)
